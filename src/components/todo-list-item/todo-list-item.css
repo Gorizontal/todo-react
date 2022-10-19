@@ -1,0 +1,20 @@
+.btn-del{
+    margin: 3px;
+}
+
+.fa{
+    width: 12px;
+}
+
+.done{
+    text-decoration: line-through;
+}
+
+.todo-list-item-label{
+    cursor: pointer;
+}
+
+.important {
+    color:  steelblue;
+    font-weight: bold;
+}
